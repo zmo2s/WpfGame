@@ -23,9 +23,5 @@ C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Room\Fight.
 C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Room\Merlin.g.cs
 C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Room\Fight.baml
 C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Room\Merlin.baml
-C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\poubelle\MainWindow.g.cs
-C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\poubelle\Window1.g.cs
 C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Room\MasterOfArms.g.cs
-C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\poubelle\MainWindow.baml
-C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\poubelle\Window1.baml
 C:\Users\anto9\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Room\MasterOfArms.baml

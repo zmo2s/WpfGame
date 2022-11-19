@@ -23,7 +23,7 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
         <Image Grid.Row="0" Grid.Column="0"  Source="/images/merlin.jpg" Width="200" Name="ImgMerlin" />
-        <Label Grid.Row="1" Grid.Column="0" HorizontalContentAlignment="Center"  >"Vous avez vos points de vie restauré </Label>
+        <Label Grid.Row="1" Grid.Column="0" HorizontalContentAlignment="Center"  >Vous avez vos points de vie restauré </Label>
         <Image Grid.Row="2" Grid.Column="0"  Source="/images/vie.png" Width="200" Name="ImgVie" />
         <Image Grid.Row="3" Grid.Column="0"  Source="/images/soldier.jpg" Width="200" Name="ImgSoldier" />
         
