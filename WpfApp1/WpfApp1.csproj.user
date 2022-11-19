@@ -19,15 +19,9 @@
     <Compile Update="Room\Merlin.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="poubelle\Window1.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Room\Fight.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="poubelle\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Acceuil.xaml">
@@ -37,9 +31,6 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Room\Merlin.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="poubelle\Window1.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

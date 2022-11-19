@@ -29,8 +29,6 @@ namespace WpfApp1
         
         private void throwDice(object sender, RoutedEventArgs e)
         {
-          //  Random random = new Random(DateTime.UtcNow.Millisecond);
-          //1  int roomNumber = random.Next(0,2);
             if (cpt == 0)
             {
                 Fight page = new Fight(this);
