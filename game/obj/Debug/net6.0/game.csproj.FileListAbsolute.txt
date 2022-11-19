@@ -1,0 +1,5 @@
+C:\Users\anto9\source\repos\WpfApp1\game\obj\Debug\net6.0\game.csproj.AssemblyReference.cache
+C:\Users\anto9\source\repos\WpfApp1\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anto9\source\repos\WpfApp1\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
+C:\Users\anto9\source\repos\WpfApp1\game\obj\Debug\net6.0\game.AssemblyInfo.cs
+C:\Users\anto9\source\repos\WpfApp1\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache

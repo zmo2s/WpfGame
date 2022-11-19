@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5YIF9CKrvKOwPm8evPZ9v9xdMFcd3bClV19Nsq1mKMTZgZvRcsIm/mzPr6h64n8D25KuWjYRyvWs9WcIPFvSA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\anto9\\source\\repos\\WpfApp1\\console\\console.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet WpfApp1 n'est pas compatible avec net6.0 (.NETCoreApp,Version=v6.0). Le projet WpfApp1 prend en charge : net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "WpfApp1",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

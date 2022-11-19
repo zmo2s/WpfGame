@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NewFolder1\**" />
+    <EmbeddedResource Remove="NewFolder1\**" />
+    <None Remove="NewFolder1\**" />
+    <Page Remove="NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Page.xaml.cs" />
+    <Compile Remove="Page1.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="images\background.jpg" />
+    <None Remove="images\de.png" />
+    <None Remove="images\monster.jpg" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <Page Remove="Page.xaml" />
+    <Page Remove="Page1.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <Resource Include="images\background.jpg" />
+	  <Resource Include="images\de.png" />
+	  <Resource Include="images\merlin.jpg" />
+	  <Resource Include="images\masterOfArms.jpg" />
+	  <Resource Include="images\monster.jpg" />
+	  <Resource Include="images\soldier.jpg" />
+	  <Resource Include="images\vie.png" />
+  </ItemGroup>
+
+</Project>

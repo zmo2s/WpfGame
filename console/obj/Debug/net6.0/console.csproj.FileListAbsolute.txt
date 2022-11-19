@@ -1,0 +1,15 @@
+C:\Users\anto9\source\repos\WpfApp1\console\bin\Debug\net6.0\console.exe
+C:\Users\anto9\source\repos\WpfApp1\console\bin\Debug\net6.0\console.deps.json
+C:\Users\anto9\source\repos\WpfApp1\console\bin\Debug\net6.0\console.runtimeconfig.json
+C:\Users\anto9\source\repos\WpfApp1\console\bin\Debug\net6.0\console.dll
+C:\Users\anto9\source\repos\WpfApp1\console\bin\Debug\net6.0\ref\console.dll
+C:\Users\anto9\source\repos\WpfApp1\console\bin\Debug\net6.0\console.pdb
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.csproj.AssemblyReference.cache
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.AssemblyInfoInputs.cache
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.AssemblyInfo.cs
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.csproj.CoreCompileInputs.cache
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.dll
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\ref\console.dll
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.pdb
+C:\Users\anto9\source\repos\WpfApp1\console\obj\Debug\net6.0\console.genruntimeconfig.cache

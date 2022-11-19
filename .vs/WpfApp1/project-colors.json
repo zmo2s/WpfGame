@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95dc8a60-e404-459d-a4b6-5989ac5ae581": {
+      "ProjectGuid": "95dc8a60-e404-459d-a4b6-5989ac5ae581",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "aca9db4a-07f6-4b2d-918a-513f47bd414e": {
+      "ProjectGuid": "aca9db4a-07f6-4b2d-918a-513f47bd414e",
+      "DisplayName": "game",
+      "ColorIndex": 1
+    },
+    "7bfe4d94-1948-404a-89b8-54046008330a": {
+      "ProjectGuid": "7bfe4d94-1948-404a-89b8-54046008330a",
+      "DisplayName": "console",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
